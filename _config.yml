@@ -1,0 +1,73 @@
+layout_spectrum: 0.5055915636107289
+typography_spectrum: 0.46886741225690687
+color:
+  saturation: 0.4260569165288332
+  brandStrength: 0.8135652892576476
+  lightness: 0.6788978475374677
+  brandColors:
+    - '#FFFEDF'
+    - '#10110D'
+    - '#313534'
+    - '#8E9569'
+    - '#53663F'
+  rhythmicContrast: 0.7773066352184235
+title: Practical Acts
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea89ae09-1824-43f1-a6b2-be1e03643e78.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea89ae09-1824-43f1-a6b2-be1e03643e78.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: external
+    url: 'https://twitter.com/PracticalActs'
+    label: Twitter
+  - type: email
+    url: 'mailto:info@practicalacts.org'
+    label: Contact us
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 'Thinking, Tinkering, Leading Transformation'
+navigation:
+  - name: About
+    id: f76018f7-0e17-4dee-aa96-21a3dcd5cfc4
+    type: content
+  - name: LinkedIn
+    url: 'https://uk.linkedin.com/in/stuartmills'
+    type: external
+analytics:
+  google: UA-90484664-1
+name: PracticalActs
+author:
+  email: stuart@practicalacts.org
+url: 'http://www.practicalacts.org'
+github: true
