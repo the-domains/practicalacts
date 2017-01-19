@@ -4,8 +4,8 @@ description: >-
   I've just started reading "Getting Beyond Better... how Social
   Entrepreneurship works" by Roger L. Martin and Sally R. Osberg. A few chapters
   in and its a great read.
-dateModified: '2017-01-19T11:34:48.479Z'
-datePublished: '2017-01-19T11:34:48.933Z'
+dateModified: '2017-01-19T15:37:12.894Z'
+datePublished: '2017-01-19T15:37:13.494Z'
 title: Breaking the Equilibrium
 author: []
 publisher: {}
@@ -23,11 +23,9 @@ _type: Article
 
 I've just started reading "[Getting Beyond Better... how Social Entrepreneurship works][0]" by Roger L. Martin and Sally R. Osberg. A few chapters in and its a great read.
 
-One section in the introduction really resonated with me and I thought worth sharing here as its relevance to our today is beyond the Social Entrepreneurship topic. It's 
+One section in the introduction really resonated with me and I thought worth sharing here as its relevance to our today is beyond the Social Entrepreneurship topic. It's about Equilibriums... and how to break them:
 
 ---
-
-about Equilibriums... and how to break them:
 
 > ...the concept of equilibrium change looms large in our thinking. An equilibrium is a balanced, stable system. Left alone, a system in equilibrium will persist in its current state, according to its current structure. The system may well be corrupt, or evil, or unfair, but its forces are in balance and will remain so without intentional action to shift it (and sometimes it will remain even in the face of such action). A system of action can and often will produce a relatively stable equilibrium that is unpleasant and unproductive for some of these actors, typically for the most underprivileged and marginalised.
 
