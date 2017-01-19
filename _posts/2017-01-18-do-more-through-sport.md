@@ -5,8 +5,8 @@ description: >-
   community, broader networks, church, political party, country, online,
   charities, etc..
 author: []
-datePublished: '2017-01-19T15:40:57.225Z'
-dateModified: '2017-01-19T15:40:56.244Z'
+datePublished: '2017-01-19T16:02:49.195Z'
+dateModified: '2017-01-19T16:02:44.935Z'
 title: Do More... Through Sport
 publisher: {}
 via: {}
