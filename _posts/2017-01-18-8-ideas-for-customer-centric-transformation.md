@@ -5,8 +5,8 @@ description: >-
   it takes to transform. I posted on Twitter a short comment on eight key
   thoughts. Here's the summary of them:
 author: []
-datePublished: '2017-01-19T15:39:12.170Z'
-dateModified: '2017-01-19T15:39:11.632Z'
+datePublished: '2017-01-19T15:59:01.414Z'
+dateModified: '2017-01-19T15:59:00.750Z'
 title: 8 ideas for customer centric transformation
 publisher: {}
 via: {}
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 # 8 ideas for customer centric transformation
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2f061f7-091e-415e-8793-84aebc169fc8.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e13cb7b-b7c2-4551-a311-d32598e1ab5a.png)
 
 In Sept 2015 I spent a bunch of time reflecting on Wood Mackenzie's customer led transformation and then presenting at Dreamforce15 ([slides here][0]) on what it takes to transform. I posted on Twitter a short comment on eight key thoughts. Here's the summary of them:
 
