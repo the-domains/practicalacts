@@ -5,8 +5,8 @@ description: >-
   Matched with the challenges people and organisations face to be
   transformational, sustainable, and to focus on doing the right thing.
 author: []
-datePublished: '2017-01-19T15:39:50.328Z'
-dateModified: '2017-01-19T15:39:49.562Z'
+datePublished: '2017-01-19T16:02:49.137Z'
+dateModified: '2017-01-19T16:02:44.935Z'
 title: 'Thinking, Tinkering, Leading Transformation'
 publisher: {}
 via: {}
