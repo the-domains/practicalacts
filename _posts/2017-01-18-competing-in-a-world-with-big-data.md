@@ -4,8 +4,8 @@ description: >-
   I'm excited to have been at Harvard Business School in June 2016 participating
   in a course on Competing on Business Analytics and Big Data. The premise of
   the program is:
-dateModified: '2017-01-19T15:38:19.529Z'
-datePublished: '2017-01-19T15:38:20.168Z'
+dateModified: '2017-01-19T16:02:44.935Z'
+datePublished: '2017-01-19T16:02:48.194Z'
 title: Competing in a world with big data
 author: []
 publisher: {}
