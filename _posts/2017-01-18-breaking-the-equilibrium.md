@@ -4,8 +4,8 @@ description: >-
   I've just started reading "Getting Beyond Better... how Social
   Entrepreneurship works" by Roger L. Martin and Sally R. Osberg. A few chapters
   in and its a great read.
-dateModified: '2017-01-19T15:37:12.894Z'
-datePublished: '2017-01-19T15:37:13.494Z'
+dateModified: '2017-01-19T16:02:44.935Z'
+datePublished: '2017-01-19T16:02:48.196Z'
 title: Breaking the Equilibrium
 author: []
 publisher: {}
