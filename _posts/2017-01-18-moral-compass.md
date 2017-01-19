@@ -7,8 +7,8 @@ description: >-
   aggressive behaviour and soundbites. Behind this I think we’ve, again, lost
   something of our morals.
 author: []
-datePublished: '2017-01-19T15:37:32.845Z'
-dateModified: '2017-01-19T15:37:32.375Z'
+datePublished: '2017-01-19T16:02:48.191Z'
+dateModified: '2017-01-19T16:02:44.935Z'
 title: Moral Compass
 publisher: {}
 via: {}
