@@ -8,8 +8,8 @@ description: >-
   revolution that has been occurring since the middle of the last century. It is
   characterized by a fusion of technologies that is blurring the lines between
   the physical, digital, and biological spheres.
-dateModified: '2017-01-25T21:10:18.155Z'
-datePublished: '2017-01-25T21:10:18.626Z'
+dateModified: '2017-01-27T14:55:17.227Z'
+datePublished: '2017-01-27T14:55:17.789Z'
 title: The Fourth Industrial Revolution
 author:
   - name: Klaus Schwab
@@ -18,13 +18,14 @@ publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-01-25-the-fourth-industrial-revolution.md
-datePublishedOriginal: '2017-01-25T21:10:18.626Z'
 starred: false
+datePublishedOriginal: '2017-01-25T21:10:18.626Z'
 url: the-fourth-industrial-revolution/index.html
 _type: Article
 
 ---
 # The Fourth Industrial Revolution
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9388a2cd-6360-4568-9356-a5801c47f31f.jpg)
 
 ## What it means, how to respond, from the WEF
 
@@ -34,11 +35,11 @@ The First Industrial Revolution used water and steam power to mechanize producti
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkhjY5LWF3tg%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkhjY5LWF3tg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkhjY5LWF3tg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-There are three reasons why today's transformations represent not merely a prolongation of the Third Industrial Revolution but rather the arrival of a Fourth and distinct one: 
+There are three reasons why today's transformations represent not merely a prolongation of the Third Industrial Revolution but rather the arrival of a Fourth and distinct one:
 
-* velocity, 
-* scope, and 
-* systems impact. 
+* velocity,
+* scope, and
+* systems impact.
 
 **The speed of current breakthroughs has no historical precedent. **When compared with previous industrial revolutions, the Fourth is evolving at an exponential rather than a linear pace. Moreover, it is disrupting almost every industry in every country. And the breadth and depth of these changes herald the transformation of entire systems of production, management, and governance.
 
