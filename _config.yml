@@ -12,7 +12,32 @@ color:
     - '#53663F'
   rhythmicContrast: 0.12591342329822186
 title: Practical Acts
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a93d0482-5985-4c0f-ba88-5337a212afb1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a93d0482-5985-4c0f-ba88-5337a212afb1.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 purpose:
   - type: external
     url: 'https://twitter.com/PracticalActs'
