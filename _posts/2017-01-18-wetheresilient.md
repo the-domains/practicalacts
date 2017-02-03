@@ -3,8 +3,8 @@ description: >-
   #WeTheResilient … have been here before. Please share this free #WeThePeople
   art and disrupt the rising tide of hate and fear.
 author: []
-datePublished: '2017-01-19T16:02:50.485Z'
-dateModified: '2017-01-19T16:02:44.935Z'
+datePublished: '2017-02-03T19:05:52.785Z'
+dateModified: '2017-02-03T19:05:46.949Z'
 title: '#WeTheResilient'
 publisher: {}
 via: {}
