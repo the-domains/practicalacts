@@ -25,11 +25,11 @@ publisher:
   favicon: 'https://hbr.org/resources/images/favicon.ico'
   url: 'https://hbr.org'
   domain: hbr.org
-dateModified: '2017-02-03T19:05:46.949Z'
+dateModified: '2017-02-03T19:11:35.964Z'
 related: []
 title: Design Thinking
 author: []
-datePublished: '2017-02-03T19:05:50.529Z'
+datePublished: '2017-02-03T19:11:36.940Z'
 hasPage: true
 sourcePath: _posts/2017-02-03-design-thinking.md
 starred: false
@@ -45,7 +45,7 @@ I've had the opportunity over the last year to study Design Thinking more formal
 
 It's stuck me how important building and leveraging design thinking is in today's ever changing world. The core of the learning for me was on how much there is a process to creativity and that there is hope, even for a engineer like me, for us all to become more creative in our workplaces.
 
-There's a great article on Design Thinking available on HBR right now and do check out the courses I've linked above. **The time invested is worth it.**
+There's a great article on [Design Thinking available on HBR][3] right now and do check out the courses I've linked above. **The time invested is worth it.**
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2eeaec46985d8d4b915235e7107e30533e0109c3.jpg" /><h1>Use Design Thinking to Build Commitment to a New Idea</h1><p>The logic we use to understand the world as it is can hinder us when we seek to understand the world as it could be. Anyone who comes up with new ideas for a living will recognize the challenges this truism presents.</p></article>
 
@@ -54,3 +54,4 @@ There's a great article on Design Thinking available on HBR right now and do che
 [0]: http://www.ideou.com/products/leading-for-creativity
 [1]: http:// https//www.linkedin.com/learning/design-thinking-lead-change-in-your-organization
 [2]: http:// https//www.linkedin.com/learning/nathan-shedroff-on-design-strategy-and-the-merging-of-business-and-design/design-research-and-dealing-with-ambiguity
+[3]: https://hbr.org/2017/01/use-design-thinking-to-build-commitment-to-a-new-idea?referral=00208&cm_mmc=email-_-newsletter-_-technology-_-technology_date&utm_source=newsletter_technology&utm_medium=email&utm_campaign=technology_date&spMailingID=16422776&spUserID=NDA2MDA2NDg5NDUS1&spJobID=942164574&spReportId=OTQyMTY0NTc0S0
