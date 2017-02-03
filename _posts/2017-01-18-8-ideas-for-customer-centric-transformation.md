@@ -5,8 +5,8 @@ description: >-
   it takes to transform. I posted on Twitter a short comment on eight key
   thoughts. Here's the summary of them:
 author: []
-datePublished: '2017-01-19T16:02:48.718Z'
-dateModified: '2017-01-19T16:02:44.935Z'
+datePublished: '2017-02-03T19:05:52.072Z'
+dateModified: '2017-02-03T19:05:46.949Z'
 title: 8 ideas for customer centric transformation
 publisher: {}
 via: {}
