@@ -25,15 +25,15 @@ publisher:
   favicon: 'https://hbr.org/resources/images/favicon.ico'
   url: 'https://hbr.org'
   domain: hbr.org
-dateModified: '2017-02-03T18:57:45.353Z'
+dateModified: '2017-02-03T19:05:46.949Z'
 related: []
 title: Design Thinking
 author: []
-datePublished: '2017-02-03T18:57:45.876Z'
+datePublished: '2017-02-03T19:05:50.529Z'
 hasPage: true
+sourcePath: _posts/2017-02-03-design-thinking.md
 starred: false
 datePublishedOriginal: '2017-02-03T18:57:45.876Z'
-sourcePath: _posts/2017-02-03-design-thinking.md
 url: design-thinking/index.html
 _context: 'http://schema.org'
 _type: MediaObject
