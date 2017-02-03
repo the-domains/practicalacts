@@ -1,18 +1,18 @@
 ---
+datePublished: '2017-02-03T19:05:52.102Z'
 description: >-
   Why Thinking, Tinkering, Leading Transformation as a heading? Coming from a
   fascination with the opportunity we have in todays global and digital world.
   Matched with the challenges people and organisations face to be
   transformational, sustainable, and to focus on doing the right thing.
-author: []
-datePublished: '2017-01-19T16:02:49.137Z'
-dateModified: '2017-01-19T16:02:44.935Z'
-title: 'Thinking, Tinkering, Leading Transformation'
-publisher: {}
 via: {}
 inFeed: true
-hasPage: true
+publisher: {}
+dateModified: '2017-02-03T19:05:46.949Z'
 sourcePath: _posts/2017-01-18-thinking-tinkering-leading-transformation.md
+title: 'Thinking, Tinkering, Leading Transformation'
+hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2017-01-18T22:41:34.231Z'
 url: thinking-tinkering-leading-transformation/index.html
