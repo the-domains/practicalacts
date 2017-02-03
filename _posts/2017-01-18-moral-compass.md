@@ -1,4 +1,5 @@
 ---
+datePublished: '2017-02-03T19:05:52.028Z'
 description: >-
   There’s a lot of talk and things written about the rights and wrongs of our
   world at the moment. No one can stand by an argument saying everything is
@@ -6,15 +7,14 @@ description: >-
   seem to have left logic and reason behind and in some areas are rewarding
   aggressive behaviour and soundbites. Behind this I think we’ve, again, lost
   something of our morals.
-author: []
-datePublished: '2017-01-19T16:02:48.191Z'
-dateModified: '2017-01-19T16:02:44.935Z'
-title: Moral Compass
-publisher: {}
 via: {}
 inFeed: true
-hasPage: true
+publisher: {}
+dateModified: '2017-02-03T19:05:46.949Z'
 sourcePath: _posts/2017-01-18-moral-compass.md
+title: Moral Compass
+hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2017-01-18T22:41:33.921Z'
 url: moral-compass/index.html
