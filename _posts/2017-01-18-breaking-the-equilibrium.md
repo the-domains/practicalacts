@@ -5,8 +5,8 @@ description: >-
   Entrepreneurship works" by Roger L. Martin and Sally R. Osberg. It's a great
   read and an important one whether you're a social entrepreneur or in "normal"
   business.
-dateModified: '2017-02-21T14:45:40.757Z'
-datePublished: '2017-02-21T14:45:41.320Z'
+dateModified: '2017-02-21T15:22:42.222Z'
+datePublished: '2017-02-21T15:22:43.169Z'
 title: Breaking the Equilibrium
 author: []
 publisher: {}
@@ -33,6 +33,8 @@ One section in the introduction really resonated with me and I thought worth sha
 Unlike the equilibrium of the glass and pivot in the picture most human and societal equilibriums are really tough to break. This is true within organisations undergoing a transformation from the equilibrium of "this is the way things are done around here" and in society at large.
 
 Transformation is hard... but the eventual outcomes are worth every effort as the authours show through great case studies.
+
+---
 
 The final chapter of the book talks of Paths to Transformation which really resonate if you've tried to do anything the "right" way:
 
