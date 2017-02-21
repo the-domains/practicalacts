@@ -2,10 +2,9 @@
 inFeed: true
 description: >-
   I'm excited to have been at Harvard Business School in June 2016 participating
-  in a course on Competing on Business Analytics and Big Data. The premise of
-  the program is:
-dateModified: '2017-02-03T19:05:46.949Z'
-datePublished: '2017-02-03T19:05:50.678Z'
+  in a course on Competing on Business Analytics and Big Data. 
+dateModified: '2017-02-21T15:06:50.323Z'
+datePublished: '2017-02-21T15:06:51.062Z'
 title: Competing in a world with big data
 author: []
 publisher: {}
@@ -19,15 +18,17 @@ _type: Article
 
 ---
 # Competing in a world with big data
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b483f34be191b30cb438f8e6b8e037be/croprotate.png?cropheight=400&cropwidth=512&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fad43fdc2-07a9-4de8-a294-b0e4605acbd8.png&x=96&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42065c88ebda0223a78715dc6d645b2505a85f85.png)
 
-I'm excited to have been at Harvard Business School in June 2016 participating in a course on **[Competing on Business Analytics and Big Data][0]**. The premise of the program is:
+I'm excited to have been at Harvard Business School in June 2016 participating in a course on **[Competing on Business Analytics and Big Data][0]**. 
+
+---
+
+The premise of the program is:
 
 > As digital technologies continue to transform the marketplace, companies across the globe are collecting an enormous amount of data. Unfortunately, many of these same businesses lack the talent and structure to turn big data into a competitive advantage.
 
-The first question I have is how do businesses currently think of this? Is big data an opportunity or a curse? I'm on the side of the opportunity and a [twitter poll agreed][1]. However, it's worth considering as there are countless examples of where reading data wrongly has driven the wrong decisions. 
-
----
+The first question I have is how do businesses currently think of this? Is big data an opportunity or a curse? I'm on the side of the opportunity and a [twitter poll agreed][1]. However, it's worth considering as there are countless examples of where reading data wrongly has driven the wrong decisions.
 
 As the volumes of data increase and as leaders we get further from the raw data, how do we trust the insight? As a [blog post ][2]from Dataloft says:
 
@@ -36,6 +37,8 @@ As the volumes of data increase and as leaders we get further from the raw data,
 Getting answers to good questions is a way to think of getting value from business analytics and big data. As Julian Birkinshaw, Strategy Professor at London Business School, says in his article on [Drowning in numbers][3]:
 
 > Big data is everywhere, promising better and faster decision-making. But more information doesn't necessarily yield better solutions. Computers are good at providing answers, but they are hopeless at knowing what questions to ask.
+
+---
 
 We're also challenged by Ronald van Loon in [an article ][4]to think about if some skepticism on big data and machine learning is .... glass half empty?
 
