@@ -4,8 +4,8 @@ description: >-
   days everything seems against us, other days maybe a few things disrupt our
   flow, rare days are those when everything we try works out.
 author: []
-datePublished: '2017-02-03T19:05:50.571Z'
-dateModified: '2017-02-03T19:05:46.949Z'
+datePublished: '2017-02-21T15:05:19.612Z'
+dateModified: '2017-02-21T15:05:18.701Z'
 title: Grit and Resilience
 publisher: {}
 via: {}
@@ -24,11 +24,13 @@ _type: Article
 
 We all experience adversity and the need for change throughout our lives. Some days everything seems against us, other days maybe a few things disrupt our flow, rare days are those when everything we try works out.
 
-To get through adverse situations, to make change transformational, we must [show grit][0], be **[resilient][1]**, and **[strive][2]** to succeed. The definition of grit when used in this context is:
-
-> Courage and resolve; strength of character
+To get through adverse situations, to make change transformational, we must [show grit][0], be **[resilient][1]**, and **[strive][2]** to succeed. 
 
 ---
+
+The definition of grit when used in this context is:
+
+> Courage and resolve; strength of character
 
 The definition of resilience used in the [International Resilience Project][3] is:
 
