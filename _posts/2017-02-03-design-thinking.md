@@ -21,11 +21,11 @@ keywords:
   - products
 inFeed: true
 publisher: {}
-dateModified: '2017-02-21T14:52:52.511Z'
+dateModified: '2017-02-21T17:56:59.171Z'
 related: []
 title: Design Thinking
 author: []
-datePublished: '2017-02-21T14:52:53.225Z'
+datePublished: '2017-02-21T17:57:02.037Z'
 hasPage: true
 sourcePath: _posts/2017-02-03-design-thinking.md
 starred: false
@@ -47,6 +47,8 @@ It's stuck me how important building and leveraging design thinking is in today'
 There's a great article on [Design Thinking available on HBR][3] right now and do check out the courses I've linked above. **The time invested is worth it.**
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2eeaec46985d8d4b915235e7107e30533e0109c3.jpg" /><h1>Use Design Thinking to Build Commitment to a New Idea</h1><p>The logic we use to understand the world as it is can hinder us when we seek to understand the world as it could be. Anyone who comes up with new ideas for a living will recognize the challenges this truism presents.</p></article>
+
+---
 
 
 
