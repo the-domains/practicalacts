@@ -6,8 +6,8 @@ description: >-
   to use on one side of the argument, snap polls are treated as gospel, and the
   distance between jealousy and ridicule too close.
 author: []
-datePublished: '2017-02-03T19:05:50.736Z'
-dateModified: '2017-02-03T19:05:46.949Z'
+datePublished: '2017-02-21T15:07:19.716Z'
+dateModified: '2017-02-21T15:07:19.145Z'
 title: Digital Transformation and the importance of iteration
 publisher: {}
 via: {}
@@ -26,11 +26,13 @@ _type: Article
 
 Reading the press, reviewing social media, and even in work presentations, it is easy to think that there is no continuum between incredible success and downright failure. Our pictures can be airbrushed, "facts" are single sourced to use on one side of the argument, snap polls are treated as gospel, and the distance between jealousy and ridicule too close.
 
-But what has all of that got to do with Digital Transformation? Digital seems to be the great promise of the moment for so many businesses and organisations as they look for opportunities to grow. But too often Digital programs seem to jump to an end game before any transformation has happened. A significant program is designed and an end to end project plan put into action. For a tiny percentile it all works out and the beauty of a solution shines through. But for most more money is spent, teams are disrupted, results are not achieved and disillusionment sets in. Promise to failure and nothing in between.
-
 ---
 
+But what has all of that got to do with Digital Transformation? Digital seems to be the great promise of the moment for so many businesses and organisations as they look for opportunities to grow. But too often Digital programs seem to jump to an end game before any transformation has happened. A significant program is designed and an end to end project plan put into action. For a tiny percentile it all works out and the beauty of a solution shines through. But for most more money is spent, teams are disrupted, results are not achieved and disillusionment sets in. Promise to failure and nothing in between.
+
 It has always been true that a plan is only good for a minute after completing it but with the speed of digital development its never been more important to plan to iterate the plan. In funding digital initiatives don't get a spending plan that only covers the known plan. This is not about contingency funds... this is real follow on money that will be needed, not just if things go "wrong". I've always liked to think of planning and funding digital just like VCs do a start up. Plan to seed, plan to pivot, plan to secure second and third round funding etc, etc.
+
+---
 
 Cloud based technologies are a great example now where delivering the value promised requires an agile approach. Build and commit to a huge vision but spend on it and deliver it incrementally and you can be successful. Leverage ideas such as marginal gains and black box thinking around failure to keep reviewing programs. Cloud based technologies are designed to be constantly developed, leveraging that aspect about them is as key as choosing the right platform for your needs today.
 
