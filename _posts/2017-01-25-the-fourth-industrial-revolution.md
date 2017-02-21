@@ -1,15 +1,8 @@
 ---
 inFeed: true
-description: >-
-  The First Industrial Revolution used water and steam power to mechanize
-  production. The Second used electric power to create mass production. The
-  Third used electronics and information technology to automate production. Now
-  a Fourth Industrial Revolution is building on the Third, the digital
-  revolution that has been occurring since the middle of the last century. It is
-  characterized by a fusion of technologies that is blurring the lines between
-  the physical, digital, and biological spheres.
-dateModified: '2017-02-03T19:05:46.949Z'
-datePublished: '2017-02-03T19:05:50.508Z'
+description: ''
+dateModified: '2017-02-21T14:50:53.985Z'
+datePublished: '2017-02-21T14:50:54.681Z'
 title: The Fourth Industrial Revolution
 author:
   - name: Klaus Schwab
@@ -30,6 +23,8 @@ _type: Article
 ## What it means, how to respond, from the WEF
 
 > We stand on the brink of a technological revolution that will fundamentally alter the way we live, work, and relate to one another. In its scale, scope, and complexity, the transformation will be unlike anything humankind has experienced before. We do not yet know just how it will unfold, but one thing is clear: the response to it must be integrated and comprehensive, involving all stakeholders of the global polity, from the public and private sectors to academia and civil society.
+
+---
 
 The First Industrial Revolution used water and steam power to mechanize production. The Second used electric power to create mass production. The Third used electronics and information technology to automate production. Now a Fourth Industrial Revolution is building on the Third, the digital revolution that has been occurring since the middle of the last century. It is characterized by a fusion of technologies that is blurring the lines between the physical, digital, and biological spheres.
 
