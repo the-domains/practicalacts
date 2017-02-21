@@ -25,11 +25,11 @@ publisher:
   favicon: 'https://hbr.org/resources/images/favicon.ico'
   url: 'https://hbr.org'
   domain: hbr.org
-dateModified: '2017-02-03T19:11:35.964Z'
+dateModified: '2017-02-21T14:50:37.011Z'
 related: []
 title: Design Thinking
 author: []
-datePublished: '2017-02-03T19:11:36.940Z'
+datePublished: '2017-02-21T14:50:37.881Z'
 hasPage: true
 sourcePath: _posts/2017-02-03-design-thinking.md
 starred: false
@@ -42,6 +42,8 @@ _type: MediaObject
 # Design Thinking
 
 I've had the opportunity over the last year to study Design Thinking more formally and leveraged some wonderful courses through IdeoU ([Leading for Creativity][0]) and LinkedIn learning ([Design Thinking: Lead Change in Your Organisation][1] by Frog; [Nathan Shedroff on Design Strategy and the Merging of Business and Design][2] by Lynda.com).
+
+---
 
 It's stuck me how important building and leveraging design thinking is in today's ever changing world. The core of the learning for me was on how much there is a process to creativity and that there is hope, even for a engineer like me, for us all to become more creative in our workplaces.
 
