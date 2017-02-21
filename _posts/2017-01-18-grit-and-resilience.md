@@ -4,8 +4,8 @@ description: >-
   days everything seems against us, other days maybe a few things disrupt our
   flow, rare days are those when everything we try works out.
 author: []
-datePublished: '2017-02-21T15:05:19.612Z'
-dateModified: '2017-02-21T15:05:18.701Z'
+datePublished: '2017-02-21T15:05:36.132Z'
+dateModified: '2017-02-21T15:05:35.497Z'
 title: Grit and Resilience
 publisher: {}
 via: {}
@@ -41,6 +41,8 @@ As a father of two young boys I consider **helping them develop grit** a key par
 As leaders it's our responsibility to help others develop grit. There are some great resources out there to help (please comment if you know of others). This is important because, as Ralph Waldo Emerson said:
 
 > What lies behind us and what lies ahead of us are tiny matters to what lies within us
+
+---
 
 ## [Resource: Angela Lee Duckworth's work on grit][0]
 
