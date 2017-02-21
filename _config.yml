@@ -1,16 +1,16 @@
-layout_spectrum: 0.8435867982124449
-typography_spectrum: 0.7445144360761462
+layout_spectrum: 0.5974383966200569
+typography_spectrum: 0.4856426505797939
 color:
-  saturation: 0.986047901190301
-  brandStrength: 0.9421432274560637
-  lightness: 0.11507520733742357
+  saturation: 0.06260420502762835
+  brandStrength: 0.4642898854065576
+  lightness: 0.11122746343650662
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.46545708064939645
+  rhythmicContrast: 0.204012354863992
 title: Practical Acts
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
