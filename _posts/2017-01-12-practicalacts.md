@@ -1,8 +1,8 @@
 ---
 publisher: {}
-datePublished: '2017-02-21T14:02:14.343Z'
-dateModified: '2017-02-21T14:02:13.803Z'
-description: image
+datePublished: '2017-02-21T14:04:13.872Z'
+dateModified: '2017-02-21T14:04:13.255Z'
+description: Edit
 via: {}
 sourcePath: _posts/2017-01-12-practicalacts.md
 title: About
@@ -16,8 +16,7 @@ _type: Article
 
 ---
 # About
-
-image
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78227fa6-dfb9-4618-bf3c-f3e08628bc97.png)
 
 # Find time.. set goals.. be practical.. act.. \#domore.
 
