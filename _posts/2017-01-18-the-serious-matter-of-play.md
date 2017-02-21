@@ -4,8 +4,8 @@ description: >-
   just that. Play is a part of life that drives innovation, stimulates
   communities, helps us enjoy life... to name but a few things.
 author: []
-datePublished: '2017-02-03T19:05:52.199Z'
-dateModified: '2017-02-03T19:05:46.949Z'
+datePublished: '2017-02-21T15:10:41.397Z'
+dateModified: '2017-02-21T15:10:40.200Z'
 title: The serious matter of play
 publisher: {}
 via: {}
@@ -26,9 +26,9 @@ We tend to think of play as a child's territory but we loose a lot by thinking j
 
 So a question... do you play enough? Like a child plays? With others? To explore and discover? To have fun? To get to know people? To learn a new skill? To test a new idea? To try something... just because?
 
-I'll bet you don't. Why not?
-
 ---
+
+I'll bet you don't. Why not?
 
 **Here's some other reading on this subject...**
 
