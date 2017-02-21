@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-02-21T14:11:39.363Z'
-dateModified: '2017-02-21T14:11:38.548Z'
+datePublished: '2017-02-21T15:09:18.784Z'
+dateModified: '2017-02-21T15:09:18.106Z'
 description: >-
   Passionate about: customer-centred innovation; sustainable business
   development; digital transformation; and the potential positive,
@@ -24,6 +24,8 @@ _type: Article
 ## Find time.. set goals.. be practical.. act.. \#domore.
 
 Passionate about: customer-centred innovation; sustainable business development; digital transformation; and the potential positive, transformational, impact of organisations.
+
+---
 
 Thinking, tinkering, and leading transformation. Coming from a fascination with the opportunity we have in today's global and digital world. Matched with the challenges people and organisations face to be transformational, sustainable, and to focus on doing the right thing.
 
