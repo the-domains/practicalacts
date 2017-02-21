@@ -5,8 +5,8 @@ description: >-
   community, broader networks, church, political party, country, online,
   charities, etc..
 author: []
-datePublished: '2017-02-03T19:05:51.623Z'
-dateModified: '2017-02-03T19:05:46.949Z'
+datePublished: '2017-02-21T15:09:46.446Z'
+dateModified: '2017-02-21T15:09:45.590Z'
 title: Do More... Through Sport
 publisher: {}
 via: {}
@@ -24,6 +24,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dae9da35-82de-4167-8c58-d9608925af39.png)
 
 So much of our ability to do more seems to me to stem from the influence of those around us - our communities... be that family, friends, workplace, local community, broader networks, church, political party, country, online, charities, etc..
+
+---
 
 Today's world is often seen to resolve more and more around individuals, but none of us truly strive without the influence of those around us. It has to be the creation of positive, peaceful communities with open arms on inclusion that the world will become a better place.
 
