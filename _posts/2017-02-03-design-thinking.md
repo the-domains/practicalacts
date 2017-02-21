@@ -20,16 +20,12 @@ keywords:
   - customer
   - products
 inFeed: true
-publisher:
-  name: Harvard Business Review
-  favicon: 'https://hbr.org/resources/images/favicon.ico'
-  url: 'https://hbr.org'
-  domain: hbr.org
-dateModified: '2017-02-21T14:50:37.011Z'
+publisher: {}
+dateModified: '2017-02-21T14:52:52.511Z'
 related: []
 title: Design Thinking
 author: []
-datePublished: '2017-02-21T14:50:37.881Z'
+datePublished: '2017-02-21T14:52:53.225Z'
 hasPage: true
 sourcePath: _posts/2017-02-03-design-thinking.md
 starred: false
@@ -40,6 +36,7 @@ _type: MediaObject
 
 ---
 # Design Thinking
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c09c9a69-a72b-47fb-b7c3-322cc537cc7f.jpg)
 
 I've had the opportunity over the last year to study Design Thinking more formally and leveraged some wonderful courses through IdeoU ([Leading for Creativity][0]) and LinkedIn learning ([Design Thinking: Lead Change in Your Organisation][1] by Frog; [Nathan Shedroff on Design Strategy and the Merging of Business and Design][2] by Lynda.com).
 
