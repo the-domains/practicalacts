@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-02-21T14:04:13.872Z'
-dateModified: '2017-02-21T14:04:13.255Z'
+datePublished: '2017-02-21T14:07:26.245Z'
+dateModified: '2017-02-21T14:05:26.564Z'
 description: Edit
 via: {}
 sourcePath: _posts/2017-01-12-practicalacts.md
@@ -38,6 +38,6 @@ When you do something...anything... Do you do it right... Do you go the extra st
 
 ---
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3671350-68cb-4ddb-ae6d-a573d1330cd5.jpg)
 
 [0]: https://twitter.com/PracticalActs "Twitter"
