@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-03T19:05:52.028Z'
+datePublished: '2017-02-21T15:06:14.472Z'
 description: >-
   There’s a lot of talk and things written about the rights and wrongs of our
   world at the moment. No one can stand by an argument saying everything is
@@ -10,7 +10,7 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-02-03T19:05:46.949Z'
+dateModified: '2017-02-21T15:06:13.842Z'
 sourcePath: _posts/2017-01-18-moral-compass.md
 title: Moral Compass
 hasPage: true
@@ -27,15 +27,17 @@ _type: Article
 
 There's a lot of talk and things written about the rights and wrongs of our world at the moment. No one can stand by an argument saying everything is going swimmingly but its the tone of the arguments I am most confused by. We seem to have left logic and reason behind and in some areas are rewarding aggressive behaviour and soundbites. Behind this I think we've, again, lost something of our morals.
 
-I started to really think about this after I left Wood Mackenzie. When I left there was a leaving card, a few drinks, and a goodbye speech. It was all rather humbling and during all of this someone said to me they were losing a Moral Compass. I remember feeling very touched and a little embarrassed at that point. The evening moved on with a few more drinks and silliness but something kept niggling me about the term.
-
 ---
+
+I started to really think about this after I left Wood Mackenzie. When I left there was a leaving card, a few drinks, and a goodbye speech. It was all rather humbling and during all of this someone said to me they were losing a Moral Compass. I remember feeling very touched and a little embarrassed at that point. The evening moved on with a few more drinks and silliness but something kept niggling me about the term.
 
 With summer upon us and inspired by Stephan Sagmeister's TED talk ["The power of time off"][0], we decided to take a break and travel for two months with our young children. The time out was refreshing and reflective. We left the UK just after the divisive Brexit vote and saw some of the Clinton/Trump division in the USA before heading to Costa Rica and seeing this incredible country with an environment and society that's flourishing and is happy. Along the way I read a few books including a great one by Kenan Malik -- "The Quest for a Moral Compass". There are lots of wonderful quotes from the book but one that stood out is in Chapter 11, The human triumph, and reads:
 
 > The very idea of morality relies on viewing humans not as machines but as conscious agents capable of making choices and taking responsibility for their actions.
 
 Coming back to the UK and a search for new opportunities I'm convinced that we've lost a requirement of ourselves and our leaders to have a Moral Compass especially in times of dramatic change. Our Moral Compass is critical to us making good choices and decisions.
+
+---
 
 The Cambridge Dictionary definition of a Moral Compass is:
 
