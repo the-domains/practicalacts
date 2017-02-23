@@ -4,8 +4,8 @@ description: >-
   days everything seems against us, other days maybe a few things disrupt our
   flow, rare days are those when everything we try works out.
 author: []
-datePublished: '2017-02-21T15:05:36.132Z'
-dateModified: '2017-02-21T15:05:35.497Z'
+datePublished: '2017-02-23T12:51:40.668Z'
+dateModified: '2017-02-23T12:51:37.231Z'
 title: Grit and Resilience
 publisher: {}
 via: {}
