@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-21T15:04:24.957Z'
-datePublished: '2017-02-21T15:04:25.617Z'
+dateModified: '2017-02-23T12:51:37.231Z'
+datePublished: '2017-02-23T12:51:40.503Z'
 title: The Fourth Industrial Revolution
 author:
   - name: Klaus Schwab
