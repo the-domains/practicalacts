@@ -20,16 +20,17 @@ description: >-
   pledge 1% of equity, product, and employee time for their communities.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://pledge1percent.org/overview.html'
 title: 'Pledge 1%: Building a Movement of Corporate Philanthropy'
-datePublished: '2017-02-23T12:50:35.929Z'
-dateModified: '2017-02-23T12:50:35.434Z'
+datePublished: '2017-02-23T12:51:05.344Z'
+dateModified: '2017-02-23T12:51:04.743Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-02-23-pledge-1-or-overview-of-building-a-movement-of-corporate-phi.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-23T12:45:11.956Z'
+url: pledge-1-building-a-movement-of-corporate-philanthropy/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -38,6 +39,8 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/245a501a-57e6-42ed-a2f0-0b19134b165d.png)
 
 I hope you've heard of it but if not Pledge 1% is a corporate philanthropy movement dedicated to making the community a key stakeholder in every business. Pledge 1% encourages and challenges individuals and companies to pledge 1% of [equity][0], [product][1], and [employee time][2] for their communities.
+
+---
 
 Read more at http://pledge1percent.org and here is some of their descriptions:
 
