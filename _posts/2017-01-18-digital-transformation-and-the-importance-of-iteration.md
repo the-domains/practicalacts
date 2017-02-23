@@ -6,8 +6,8 @@ description: >-
   to use on one side of the argument, snap polls are treated as gospel, and the
   distance between jealousy and ridicule too close.
 author: []
-datePublished: '2017-02-21T15:07:19.716Z'
-dateModified: '2017-02-21T15:07:19.145Z'
+datePublished: '2017-02-23T12:51:40.731Z'
+dateModified: '2017-02-23T12:51:37.231Z'
 title: Digital Transformation and the importance of iteration
 publisher: {}
 via: {}
