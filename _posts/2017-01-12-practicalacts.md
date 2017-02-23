@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-02-21T15:09:18.784Z'
-dateModified: '2017-02-21T15:09:18.106Z'
+datePublished: '2017-02-23T12:51:42.682Z'
+dateModified: '2017-02-23T12:51:37.231Z'
 description: >-
   Passionate about: customer-centred innovation; sustainable business
   development; digital transformation; and the potential positive,
