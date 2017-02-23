@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-03T19:05:52.102Z'
+datePublished: '2017-02-23T12:51:41.410Z'
 description: >-
   Why Thinking, Tinkering, Leading Transformation as a heading? Coming from a
   fascination with the opportunity we have in todays global and digital world.
@@ -8,7 +8,7 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-02-03T19:05:46.949Z'
+dateModified: '2017-02-23T12:51:37.231Z'
 sourcePath: _posts/2017-01-18-thinking-tinkering-leading-transformation.md
 title: 'Thinking, Tinkering, Leading Transformation'
 hasPage: true
