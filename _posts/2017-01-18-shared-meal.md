@@ -7,8 +7,8 @@ description: >-
 
   ― Michael Pollan, The Omnivore's Dilemma: A Natural History of Four Meals
 author: []
-datePublished: '2017-02-03T19:05:54.001Z'
-dateModified: '2017-02-03T19:05:46.949Z'
+datePublished: '2017-02-23T12:51:43.706Z'
+dateModified: '2017-02-23T12:51:37.231Z'
 title: '#Shared Meal'
 publisher: {}
 via: {}
