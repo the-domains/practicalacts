@@ -3,12 +3,12 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: "I was delighted to sit down and discuss Digital Transformation with Kim Massana, Global Head of Customer Experience at Thomson Reuters, at Salesforce's annual customer conference, Dreamforce, on November 8th, 2017. The overall theme of the conference was to discover a whole world of innovation that will transform customer success\_and we called our breakout session\_Driving Customer Experience in a Digital Age."
+description: "I was delighted to sit down and discuss Digital Transformation with Kim Massana, Global Head of Customer Experience at Thomson Reuters, at Salesforce's annual customer conference,\_Dreamforce, on November 8th, 2017. The overall theme of the conference was to\_discover a whole world of innovation that will transform customer success\_and we called our breakout session\_Driving Customer Experience in a Digital Age."
 app_links: []
 isBasedOnUrl: 'https://www.linkedin.com/pulse/driving-digital-experience-age-stuart-mills/'
 title: Driving Digital Experience in a Digital Age
-datePublished: '2017-12-28T22:55:33.515Z'
-dateModified: '2017-12-28T22:55:32.505Z'
+datePublished: '2017-12-28T23:00:15.089Z'
+dateModified: '2017-12-28T23:00:12.570Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-28-driving-digital-experience-in-a-digital-age.md
