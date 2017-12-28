@@ -21,11 +21,11 @@ keywords:
   - products
 inFeed: true
 publisher: {}
-dateModified: '2017-02-23T12:51:37.231Z'
+dateModified: '2017-12-28T23:00:12.570Z'
 related: []
 title: Design Thinking
 author: []
-datePublished: '2017-02-23T12:51:40.118Z'
+datePublished: '2017-12-28T23:00:15.113Z'
 hasPage: true
 sourcePath: _posts/2017-02-03-design-thinking.md
 starred: false
