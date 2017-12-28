@@ -5,8 +5,8 @@ description: >-
   Entrepreneurship works" by Roger L. Martin and Sally R. Osberg. It's a great
   read and an important one whether you're a social entrepreneur or in "normal"
   business.
-dateModified: '2017-02-21T17:53:49.482Z'
-datePublished: '2017-02-21T17:53:50.201Z'
+dateModified: '2017-12-28T23:00:12.570Z'
+datePublished: '2017-12-28T23:00:15.126Z'
 title: Breaking the Equilibrium
 author: []
 publisher: {}
