@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-11-30T08:22:15.392Z'
+dateModified: '2017-12-28T23:00:12.570Z'
 via: {}
 description: >-
   A recent copy of (Volume 28) London Business School Review has a great series
@@ -8,10 +8,10 @@ description: >-
 title: Confidence
 inFeed: true
 author: []
-datePublished: '2017-11-30T08:22:28.411Z'
+datePublished: '2017-12-28T23:00:15.089Z'
+sourcePath: _posts/2017-11-30-confidence.md
 starred: true
 datePublishedOriginal: '2017-11-30T08:22:28.411Z'
-sourcePath: _posts/2017-11-30-confidence.md
 _type: Blurb
 
 ---
