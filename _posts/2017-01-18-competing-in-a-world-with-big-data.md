@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   I'm excited to have been at Harvard Business School in June 2016 participating
   in a course on Competing on Business Analytics and Big Data. 
-dateModified: '2017-02-23T12:51:37.231Z'
-datePublished: '2017-02-23T12:51:40.735Z'
+dateModified: '2017-12-28T23:00:12.570Z'
+datePublished: '2017-12-28T23:00:15.114Z'
 title: Competing in a world with big data
 author: []
 publisher: {}
