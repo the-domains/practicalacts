@@ -1,8 +1,8 @@
 ---
 description: Listening to the silence of the New Hampshire White mountains.
 author: []
-datePublished: '2017-02-23T12:51:43.643Z'
-dateModified: '2017-02-23T12:51:37.231Z'
+datePublished: '2017-12-28T23:00:15.126Z'
+dateModified: '2017-12-28T23:00:12.570Z'
 title: '#Listening'
 publisher: {}
 via: {}
