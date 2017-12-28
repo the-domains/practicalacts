@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-11-30T08:41:32.124Z'
+dateModified: '2017-12-28T23:00:12.570Z'
 description: >-
   Investing (for Share, for Product, for Interest) in organisations that are
   driving for positive, transformational, impact.
@@ -9,10 +9,10 @@ title: 'Interesting #Investments'
 hasPage: true
 inFeed: true
 author: []
-datePublished: '2017-11-30T08:42:04.834Z'
+datePublished: '2017-12-28T23:00:15.182Z'
+sourcePath: _posts/2017-11-30-interesting-investments.md
 starred: true
 datePublishedOriginal: '2017-11-30T08:42:04.834Z'
-sourcePath: _posts/2017-11-30-interesting-investments.md
 url: interesting-investments/index.html
 _type: Article
 
