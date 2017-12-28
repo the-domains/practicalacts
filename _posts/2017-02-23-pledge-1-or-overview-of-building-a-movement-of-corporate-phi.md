@@ -21,8 +21,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: 'Pledge 1%: Building a Movement of Corporate Philanthropy'
-datePublished: '2017-02-23T12:51:40.085Z'
-dateModified: '2017-02-23T12:51:37.231Z'
+datePublished: '2017-12-28T23:00:15.103Z'
+dateModified: '2017-12-28T23:00:12.570Z'
 via: {}
 inFeed: true
 sourcePath: >-
