@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-02-23T12:51:42.864Z'
+datePublished: '2017-12-28T23:00:15.143Z'
 description: >-
   #WeTheResilient … have been here before. Please share this free #WeThePeople
   art and disrupt the rising tide of hate and fear.
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-02-23T12:51:37.231Z'
+dateModified: '2017-12-28T23:00:12.570Z'
 sourcePath: _posts/2017-01-18-wetheresilient.md
 title: '#WeTheResilient'
 author: []
