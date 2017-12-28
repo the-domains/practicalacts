@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-23T12:51:40.638Z'
+datePublished: '2017-12-28T23:00:15.125Z'
 description: >-
   There’s a lot of talk and things written about the rights and wrongs of our
   world at the moment. No one can stand by an argument saying everything is
@@ -10,7 +10,7 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-02-23T12:51:37.231Z'
+dateModified: '2017-12-28T23:00:12.570Z'
 sourcePath: _posts/2017-01-18-moral-compass.md
 title: Moral Compass
 hasPage: true
